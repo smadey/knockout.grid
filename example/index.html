@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Knockout Grid</title>
+
+        <link rel="stylesheet" type="text/css" href="./css/main.css" />
+    </head>
+    <body>
+        <div data-bind="grid: 'grid'"></div>
+
+        <div id="associationInfoDetial" class="hide">
+            <ul class="associationInfoDetial clearfix" data-bind="with: $root.chartData">
+                <li class="associationInfoDetial_ATV">
+                    <div class="associationInfoDetial_chartContainer">
+                        <div class="js-ATV_pie_associated associationInfoDetial_pie bgColor_associated"></div>
+                        <div class="js-ATV_pie_separate associationInfoDetial_pie bgColor_separate"></div>
+                    </div>
+                    <dl>
+                        <dt class="associationInfoDetial_head">
+                            <span class="associationInfoDetial_head_name" data-bind="html: 'ATV'"></span>
+                            <span class="associationInfoDetial_head_pect" data-bind="html: pct, css: { 'associationInfoDetial_head_pect-down': !isAVTAsc }"></span>
+                        </dt>
+                        <dd class="associationInfoDetial_content clearfix">
+                            <dl class="associationInfoDetial_content_associatedSaleInfo">
+                                <dt class="associationInfoDetial_content_avgAmount" data-bind="html: asso_amt_avg">￥70.00</dt>
+                                <dd class="associationInfoDetial_content_amount">
+                                    <span class="associationInfoDetial_content_amount_name" data-bind="html: 'Amount:'"></span>
+                                    <span class="associationInfoDetial_content_amount_number" data-bind="html: asso_amt">￥700.00</span>
+                                </dd>
+                                <dd class="associationInfoDetial_content_amount">
+                                    <span class="associationInfoDetial_content_amount_name" data-bind="html: 'Order Count:'"></span>
+                                    <span class="associationInfoDetial_content_amount_number" data-bind="html: asso_pos_num">10</span>
+                                </dd>
+                            </dl>
+                            <dl class="associationInfoDetial_content_separateSaleInfo">
+                                <dt class="associationInfoDetial_content_avgAmount" data-bind="html: amt_avg">￥30.00</dt>
+                                <dd class="associationInfoDetial_content_amount">
+                                    <span class="associationInfoDetial_content_amount_name" data-bind="html: 'Amount:'"></span>
+                                    <span class="associationInfoDetial_content_amount_number" data-bind="html: amt">￥360.00</span>
+                                </dd>
+                                <dd class="associationInfoDetial_content_amount">
+                                    <span class="associationInfoDetial_content_amount_name" data-bind="html: 'Order Count:'"></span>
+                                    <span class="associationInfoDetial_content_amount_number" data-bind="html: pos_num">12</span>
+                                </dd>
+                            </dl>
+                        </dd>
+                    </dl>
+                </li>
+                <li class="associationInfoDetial_UPT">
+                    <div class="associationInfoDetial_chartContainer">
+                        <div class="js-UPT_pie_associated associationInfoDetial_pie bgColor_associated"></div>
+                        <div class="js-UPT_pie_separate associationInfoDetial_pie bgColor_separate"></div>
+                    </div>
+                    <dl>
+                        <dt>
+                            <span class="associationInfoDetial_head_name" data-bind="html: 'UPT'"></span>
+                            <span class="associationInfoDetial_head_pect" data-bind="html: pcgq, css: { 'associationInfoDetial_head_pect-down': !isUPTAsc }">180%</span>
+                        </dt>
+                        <dd>
+                            <dl class="associationInfoDetial_content_associatedSaleInfo">
+                                <dt class="associationInfoDetial_content_avgAmount" data-bind="html: asso_num_avg">56</dt>
+                                <dd class="associationInfoDetial_content_amount">
+                                    <span class="associationInfoDetial_content_amount_name" data-bind="html: 'Quantity:'"></span>
+                                    <span class="associationInfoDetial_content_amount_number" data-bind="html: asso_num">560</span>
+                                </dd>
+                                <dd class="associationInfoDetial_content_amount">
+                                    <span class="associationInfoDetial_content_amount_name" data-bind="html: 'Order Count:'"></span>
+                                    <span class="associationInfoDetial_content_amount_number" data-bind="html: asso_pos_num">10</span>
+                                </dd>
+                            </dl>
+                            <dl class="associationInfoDetial_content_separateSaleInfo">
+                                <dt class="associationInfoDetial_content_avgAmount" data-bind="html: num_avg">20</dt>
+                                <dd class="associationInfoDetial_content_amount">
+                                    <span class="associationInfoDetial_content_amount_name" data-bind="html: 'Quantity:'"></span>
+                                    <span class="associationInfoDetial_content_amount_number" data-bind="html: num">240</span>
+                                </dd>
+                                <dd class="associationInfoDetial_content_amount">
+                                    <span class="associationInfoDetial_content_amount_name" data-bind="html: 'Order Count:'"></span>
+                                    <span class="associationInfoDetial_content_amount_number" data-bind="html: pos_num">12</span>
+                                </dd>
+                            </dl>
+                        </dd>
+                    </dl>
+                </li>
+                <li class="associationInfoDetial_legend">
+                    <ul>
+                        <li>
+                            <div class="associationInfoDetial_legendContainer">
+                                <div class="associationInfoDetial_pie bgColor_separate"></div>
+                            </div>
+                            <span data-bind="html: 'Separate Sales'"></span>
+                        </li>
+                        <li>
+                            <div class="associationInfoDetial_legendContainer">
+                                <div class="associationInfoDetial_pie bgColor_associated"></div>
+                            </div>
+                            <span data-bind="html: 'Associated Sales'"></span>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div>
+
+        <script src="./lib/require.js" data-main="./js/main"></script>
+    </body>
+</html>

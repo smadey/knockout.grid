@@ -1,0 +1,2677 @@
+{
+    "AssociationList": [{
+        "supportDegree": 0.0089,
+        "confidenceDegree": 0.7311,
+        "improveDegree": 62.81,
+        "ProSet": [{
+            "proId": "131869",
+            "proDescription": "风寒感冒颗粒_滇南本草堂_8g*9袋",
+            "proCategory": "感冒药类"
+        }],
+        "relatedProSet": [{
+            "proId": "131868",
+            "proDescription": "风热感冒颗粒_滇南本草堂_10g*9袋",
+            "proCategory": "感冒药类"
+        }]
+    }, {
+        "supportDegree": 0.0089,
+        "confidenceDegree": 0.7688,
+        "improveDegree": 62.81,
+        "ProSet": [{
+            "proId": "131868",
+            "proDescription": "风热感冒颗粒_滇南本草堂_10g*9袋",
+            "proCategory": "感冒药类"
+        }],
+        "relatedProSet": [{
+            "proId": "131869",
+            "proDescription": "风寒感冒颗粒_滇南本草堂_8g*9袋",
+            "proCategory": "感冒药类"
+        }]
+    }, {
+        "supportDegree": 0.0086,
+        "confidenceDegree": 0.7943,
+        "improveDegree": 72.8101,
+        "ProSet": [{
+            "proId": "108692",
+            "proDescription": "风热感冒颗粒_云健_10g*10袋",
+            "proCategory": "感冒药类"
+        }],
+        "relatedProSet": [{
+            "proId": "108888",
+            "proDescription": "风寒感冒颗粒_云健_8g*10袋",
+            "proCategory": "感冒药类"
+        }]
+    }, {
+        "supportDegree": 0.0086,
+        "confidenceDegree": 0.7922,
+        "improveDegree": 72.8101,
+        "ProSet": [{
+            "proId": "108888",
+            "proDescription": "风寒感冒颗粒_云健_8g*10袋",
+            "proCategory": "感冒药类"
+        }],
+        "relatedProSet": [{
+            "proId": "108692",
+            "proDescription": "风热感冒颗粒_云健_10g*10袋",
+            "proCategory": "感冒药类"
+        }]
+    }, {
+        "supportDegree": 0.0057,
+        "confidenceDegree": 0.5362,
+        "improveDegree": 44.8261,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0057,
+        "confidenceDegree": 0.4792,
+        "improveDegree": 44.8261,
+        "ProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0056,
+        "confidenceDegree": 0.1681,
+        "improveDegree": 7.7968,
+        "ProSet": [{
+            "proId": "125252",
+            "proDescription": "阿奇霉素分散片_滇南本草堂_0.25g(25万单位)*6片*2板",
+            "proCategory": "大环内酯类"
+        }],
+        "relatedProSet": [{
+            "proId": "131861",
+            "proDescription": "银黄胶囊_滇南本草堂_0.3g*18粒*2板",
+            "proCategory": "清热药类"
+        }]
+    }, {
+        "supportDegree": 0.0056,
+        "confidenceDegree": 0.2623,
+        "improveDegree": 7.7968,
+        "ProSet": [{
+            "proId": "131861",
+            "proDescription": "银黄胶囊_滇南本草堂_0.3g*18粒*2板",
+            "proCategory": "清热药类"
+        }],
+        "relatedProSet": [{
+            "proId": "125252",
+            "proDescription": "阿奇霉素分散片_滇南本草堂_0.25g(25万单位)*6片*2板",
+            "proCategory": "大环内酯类"
+        }]
+    }, {
+        "supportDegree": 0.0051,
+        "confidenceDegree": 0.5122,
+        "improveDegree": 12.7884,
+        "ProSet": [{
+            "proId": "123427",
+            "proDescription": "莱握过氧化氢消毒液(双氧水)_100ml",
+            "proCategory": "消毒防腐类"
+        }],
+        "relatedProSet": [{
+            "proId": "127230",
+            "proDescription": "稳健医疗棉签(普通级)_10cm*50支(竹棒单头)",
+            "proCategory": "医用卫生材料及敷料"
+        }]
+    }, {
+        "supportDegree": 0.0051,
+        "confidenceDegree": 0.1296,
+        "improveDegree": 12.7884,
+        "ProSet": [{
+            "proId": "127230",
+            "proDescription": "稳健医疗棉签(普通级)_10cm*50支(竹棒单头)",
+            "proCategory": "医用卫生材料及敷料"
+        }],
+        "relatedProSet": [{
+            "proId": "123427",
+            "proDescription": "莱握过氧化氢消毒液(双氧水)_100ml",
+            "proCategory": "消毒防腐类"
+        }]
+    }, {
+        "supportDegree": 0.0049,
+        "confidenceDegree": 0.4278,
+        "improveDegree": 10.6812,
+        "ProSet": [{
+            "proId": "123423",
+            "proDescription": "莱握75%乙醇消毒液_100ml",
+            "proCategory": "消毒防腐类"
+        }],
+        "relatedProSet": [{
+            "proId": "127230",
+            "proDescription": "稳健医疗棉签(普通级)_10cm*50支(竹棒单头)",
+            "proCategory": "医用卫生材料及敷料"
+        }]
+    }, {
+        "supportDegree": 0.0049,
+        "confidenceDegree": 0.1244,
+        "improveDegree": 10.6812,
+        "ProSet": [{
+            "proId": "127230",
+            "proDescription": "稳健医疗棉签(普通级)_10cm*50支(竹棒单头)",
+            "proCategory": "医用卫生材料及敷料"
+        }],
+        "relatedProSet": [{
+            "proId": "123423",
+            "proDescription": "莱握75%乙醇消毒液_100ml",
+            "proCategory": "消毒防腐类"
+        }]
+    }, {
+        "supportDegree": 0.0047,
+        "confidenceDegree": 0.5484,
+        "improveDegree": 51.3064,
+        "ProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0047,
+        "confidenceDegree": 0.4487,
+        "improveDegree": 51.3064,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0042,
+        "confidenceDegree": 0.5233,
+        "improveDegree": 67.2702,
+        "ProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0042,
+        "confidenceDegree": 0.5469,
+        "improveDegree": 67.2702,
+        "ProSet": [{
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0041,
+        "confidenceDegree": 0.3844,
+        "improveDegree": 47.2748,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0041,
+        "confidenceDegree": 0.5053,
+        "improveDegree": 47.2748,
+        "ProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.004,
+        "confidenceDegree": 0.3386,
+        "improveDegree": 38.7205,
+        "ProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.004,
+        "confidenceDegree": 0.4632,
+        "improveDegree": 38.7205,
+        "ProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0038,
+        "confidenceDegree": 0.3584,
+        "improveDegree": 67.5139,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "680113",
+            "proDescription": "炒白术_麸炒_浙江",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0038,
+        "confidenceDegree": 0.7217,
+        "improveDegree": 67.5139,
+        "ProSet": [{
+            "proId": "680113",
+            "proDescription": "炒白术_麸炒_浙江",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0037,
+        "confidenceDegree": 0.4604,
+        "improveDegree": 38.4882,
+        "ProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0037,
+        "confidenceDegree": 0.3129,
+        "improveDegree": 38.4882,
+        "ProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0036,
+        "confidenceDegree": 0.1095,
+        "improveDegree": 3.9351,
+        "ProSet": [{
+            "proId": "125252",
+            "proDescription": "阿奇霉素分散片_滇南本草堂_0.25g(25万单位)*6片*2板",
+            "proCategory": "大环内酯类"
+        }],
+        "relatedProSet": [{
+            "proId": "400249",
+            "proDescription": "香满园食用调和油(ZZ)_900ml",
+            "proCategory": "食品"
+        }]
+    }, {
+        "supportDegree": 0.0036,
+        "confidenceDegree": 0.1324,
+        "improveDegree": 3.9351,
+        "ProSet": [{
+            "proId": "400249",
+            "proDescription": "香满园食用调和油(ZZ)_900ml",
+            "proCategory": "食品"
+        }],
+        "relatedProSet": [{
+            "proId": "125252",
+            "proDescription": "阿奇霉素分散片_滇南本草堂_0.25g(25万单位)*6片*2板",
+            "proCategory": "大环内酯类"
+        }]
+    }, {
+        "supportDegree": 0.0035,
+        "confidenceDegree": 0.5697,
+        "improveDegree": 47.6278,
+        "ProSet": [{
+            "proId": "608798",
+            "proDescription": "陈皮_丝_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0035,
+        "confidenceDegree": 0.2995,
+        "improveDegree": 47.6278,
+        "ProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608798",
+            "proDescription": "陈皮_丝_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0035,
+        "confidenceDegree": 0.403,
+        "improveDegree": 49.5629,
+        "ProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0035,
+        "confidenceDegree": 0.4334,
+        "improveDegree": 49.5629,
+        "ProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0035,
+        "confidenceDegree": 0.526,
+        "improveDegree": 43.9764,
+        "ProSet": [{
+            "proId": "608294",
+            "proDescription": "白芍_片_安徽",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0035,
+        "confidenceDegree": 0.2958,
+        "improveDegree": 43.9765,
+        "ProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608294",
+            "proDescription": "白芍_片_安徽",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0033,
+        "confidenceDegree": 0.0999,
+        "improveDegree": 5.6392,
+        "ProSet": [{
+            "proId": "125252",
+            "proDescription": "阿奇霉素分散片_滇南本草堂_0.25g(25万单位)*6片*2板",
+            "proCategory": "大环内酯类"
+        }],
+        "relatedProSet": [{
+            "proId": "134025",
+            "proDescription": "新复方大青叶片_龙发_12片*4板",
+            "proCategory": "感冒药类"
+        }]
+    }, {
+        "supportDegree": 0.0033,
+        "confidenceDegree": 0.5255,
+        "improveDegree": 49.163,
+        "ProSet": [{
+            "proId": "608798",
+            "proDescription": "陈皮_丝_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0033,
+        "confidenceDegree": 0.3091,
+        "improveDegree": 49.163,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608798",
+            "proDescription": "陈皮_丝_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0033,
+        "confidenceDegree": 0.2836,
+        "improveDegree": 36.4535,
+        "ProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0033,
+        "confidenceDegree": 0.1897,
+        "improveDegree": 5.6392,
+        "ProSet": [{
+            "proId": "134025",
+            "proDescription": "新复方大青叶片_龙发_12片*4板",
+            "proCategory": "感冒药类"
+        }],
+        "relatedProSet": [{
+            "proId": "125252",
+            "proDescription": "阿奇霉素分散片_滇南本草堂_0.25g(25万单位)*6片*2板",
+            "proCategory": "大环内酯类"
+        }]
+    }, {
+        "supportDegree": 0.0033,
+        "confidenceDegree": 0.436,
+        "improveDegree": 36.4535,
+        "ProSet": [{
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0032,
+        "confidenceDegree": 0.3023,
+        "improveDegree": 38.8579,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0032,
+        "confidenceDegree": 0.4154,
+        "improveDegree": 38.8579,
+        "ProSet": [{
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0032,
+        "confidenceDegree": 0.6151,
+        "improveDegree": 57.543,
+        "ProSet": [{
+            "proId": "608464",
+            "proDescription": "丹参_片_河北",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0032,
+        "confidenceDegree": 0.2995,
+        "improveDegree": 57.543,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608464",
+            "proDescription": "丹参_片_河北",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0031,
+        "confidenceDegree": 0.3645,
+        "improveDegree": 46.8554,
+        "ProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0031,
+        "confidenceDegree": 0.4097,
+        "improveDegree": 46.8554,
+        "ProSet": [{
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0031,
+        "confidenceDegree": 0.4673,
+        "improveDegree": 57.4807,
+        "ProSet": [{
+            "proId": "608294",
+            "proDescription": "白芍_片_安徽",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0031,
+        "confidenceDegree": 0.3866,
+        "improveDegree": 57.4807,
+        "ProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608294",
+            "proDescription": "白芍_片_安徽",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0031,
+        "confidenceDegree": 0.2941,
+        "improveDegree": 43.7199,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608294",
+            "proDescription": "白芍_片_安徽",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0031,
+        "confidenceDegree": 0.4673,
+        "improveDegree": 43.7199,
+        "ProSet": [{
+            "proId": "608294",
+            "proDescription": "白芍_片_安徽",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0031,
+        "confidenceDegree": 0.595,
+        "improveDegree": 68.0396,
+        "ProSet": [{
+            "proId": "680113",
+            "proDescription": "炒白术_麸炒_浙江",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0031,
+        "confidenceDegree": 0.3612,
+        "improveDegree": 68.0396,
+        "ProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "680113",
+            "proDescription": "炒白术_麸炒_浙江",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.8636,
+        "improveDegree": 80.7848,
+        "ProSet": [{
+            "proId": "680113",
+            "proDescription": "炒白术_麸炒_浙江",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.8206,
+        "improveDegree": 213.3633,
+        "ProSet": [{
+            "proId": "608526",
+            "proDescription": "桃仁_生_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608748",
+            "proDescription": "红花_生_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0024,
+        "confidenceDegree": 0.7731,
+        "improveDegree": 72.3205,
+        "ProSet": [{
+            "proId": "680113",
+            "proDescription": "炒白术_麸炒_浙江",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.7236,
+        "improveDegree": 67.6875,
+        "ProSet": [{
+            "proId": "608650",
+            "proDescription": "薏苡仁_生_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0026,
+        "confidenceDegree": 0.7177,
+        "improveDegree": 114.1343,
+        "ProSet": [{
+            "proId": "608315",
+            "proDescription": "法半夏_炙_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608798",
+            "proDescription": "陈皮_丝_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0028,
+        "confidenceDegree": 0.7003,
+        "improveDegree": 65.512,
+        "ProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.6814,
+        "improveDegree": 56.9607,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608798",
+            "proDescription": "陈皮_丝_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0025,
+        "confidenceDegree": 0.6718,
+        "improveDegree": 62.8474,
+        "ProSet": [{
+            "proId": "608307",
+            "proDescription": "党参_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.6651,
+        "improveDegree": 55.6034,
+        "ProSet": [{
+            "proId": "680595",
+            "proDescription": "姜厚朴_炒_四川",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.6606,
+        "improveDegree": 81.246,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.6559,
+        "improveDegree": 54.833,
+        "ProSet": [{
+            "proId": "680107",
+            "proDescription": "防风_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.6514,
+        "improveDegree": 60.937,
+        "ProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.6428,
+        "improveDegree": 102.2262,
+        "ProSet": [{
+            "proId": "680595",
+            "proDescription": "姜厚朴_炒_四川",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608798",
+            "proDescription": "陈皮_丝_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.6383,
+        "improveDegree": 59.7154,
+        "ProSet": [{
+            "proId": "680595",
+            "proDescription": "姜厚朴_炒_四川",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0024,
+        "confidenceDegree": 0.6374,
+        "improveDegree": 72.8836,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "680113",
+            "proDescription": "炒白术_麸炒_浙江",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.6372,
+        "improveDegree": 53.2654,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608294",
+            "proDescription": "白芍_片_安徽",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.6285,
+        "improveDegree": 58.7967,
+        "ProSet": [{
+            "proId": "608798",
+            "proDescription": "陈皮_丝_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.6284,
+        "improveDegree": 77.2868,
+        "ProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0026,
+        "confidenceDegree": 0.6216,
+        "improveDegree": 58.1467,
+        "ProSet": [{
+            "proId": "608308",
+            "proDescription": "白术_片_浙江",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.6129,
+        "improveDegree": 57.3311,
+        "ProSet": [{
+            "proId": "608315",
+            "proDescription": "法半夏_炙_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.6008,
+        "improveDegree": 50.2224,
+        "ProSet": [{
+            "proId": "608315",
+            "proDescription": "法半夏_炙_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0028,
+        "confidenceDegree": 0.5914,
+        "improveDegree": 49.4414,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.5898,
+        "improveDegree": 67.4453,
+        "ProSet": [{
+            "proId": "608307",
+            "proDescription": "党参_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.5853,
+        "improveDegree": 48.9317,
+        "ProSet": [{
+            "proId": "608380",
+            "proDescription": "滇柴胡饮片_片_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.582,
+        "improveDegree": 54.4434,
+        "ProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.5801,
+        "improveDegree": 48.4959,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "680113",
+            "proDescription": "炒白术_麸炒_浙江",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.5741,
+        "improveDegree": 213.3633,
+        "ProSet": [{
+            "proId": "608748",
+            "proDescription": "红花_生_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608526",
+            "proDescription": "桃仁_生_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.5684,
+        "improveDegree": 73.0648,
+        "ProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0024,
+        "confidenceDegree": 0.5675,
+        "improveDegree": 47.4439,
+        "ProSet": [{
+            "proId": "608308",
+            "proDescription": "白术_片_浙江",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0023,
+        "confidenceDegree": 0.5663,
+        "improveDegree": 64.7542,
+        "ProSet": [{
+            "proId": "608452",
+            "proDescription": "桂枝_片_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.5661,
+        "improveDegree": 52.9546,
+        "ProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608294",
+            "proDescription": "白芍_片_安徽",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.5591,
+        "improveDegree": 52.3021,
+        "ProSet": [{
+            "proId": "608452",
+            "proDescription": "桂枝_片_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.5587,
+        "improveDegree": 63.8864,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.5302,
+        "improveDegree": 44.3244,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0023,
+        "confidenceDegree": 0.5278,
+        "improveDegree": 67.847,
+        "ProSet": [{
+            "proId": "680510",
+            "proDescription": "香附_生_广西",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.5268,
+        "improveDegree": 44.0429,
+        "ProSet": [{
+            "proId": "608452",
+            "proDescription": "桂枝_片_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.5263,
+        "improveDegree": 67.6474,
+        "ProSet": [{
+            "proId": "608440",
+            "proDescription": "熟地黄_片_河南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0026,
+        "confidenceDegree": 0.4139,
+        "improveDegree": 114.1343,
+        "ProSet": [{
+            "proId": "608798",
+            "proDescription": "陈皮_丝_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608315",
+            "proDescription": "法半夏_炙_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.3348,
+        "improveDegree": 102.2262,
+        "ProSet": [{
+            "proId": "608798",
+            "proDescription": "陈皮_丝_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "680595",
+            "proDescription": "姜厚朴_炒_四川",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0024,
+        "confidenceDegree": 0.5091,
+        "improveDegree": 95.9074,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "680113",
+            "proDescription": "炒白术_麸炒_浙江",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0024,
+        "confidenceDegree": 0.46,
+        "improveDegree": 95.9074,
+        "ProSet": [{
+            "proId": "680113",
+            "proDescription": "炒白术_麸炒_浙江",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.2625,
+        "improveDegree": 81.246,
+        "ProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.2079,
+        "improveDegree": 80.7848,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "680113",
+            "proDescription": "炒白术_麸炒_浙江",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.2464,
+        "improveDegree": 77.2868,
+        "ProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.5087,
+        "improveDegree": 75.6278,
+        "ProSet": [{
+            "proId": "608440",
+            "proDescription": "熟地黄_片_河南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608294",
+            "proDescription": "白芍_片_安徽",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.3152,
+        "improveDegree": 75.6278,
+        "ProSet": [{
+            "proId": "608294",
+            "proDescription": "白芍_片_安徽",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608440",
+            "proDescription": "熟地黄_片_河南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.2575,
+        "improveDegree": 73.0648,
+        "ProSet": [{
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.4187,
+        "improveDegree": 73.0411,
+        "ProSet": [{
+            "proId": "680113",
+            "proDescription": "炒白术_麸炒_浙江",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.3877,
+        "improveDegree": 73.041,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "680113",
+            "proDescription": "炒白术_麸炒_浙江",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0024,
+        "confidenceDegree": 0.2792,
+        "improveDegree": 72.8836,
+        "ProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "680113",
+            "proDescription": "炒白术_麸炒_浙江",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0024,
+        "confidenceDegree": 0.2284,
+        "improveDegree": 72.3205,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "680113",
+            "proDescription": "炒白术_麸炒_浙江",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.3651,
+        "improveDegree": 68.7766,
+        "ProSet": [{
+            "proId": "608798",
+            "proDescription": "陈皮_丝_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "680113",
+            "proDescription": "炒白术_麸炒_浙江",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.4325,
+        "improveDegree": 68.7766,
+        "ProSet": [{
+            "proId": "680113",
+            "proDescription": "炒白术_麸炒_浙江",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608798",
+            "proDescription": "陈皮_丝_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0023,
+        "confidenceDegree": 0.3026,
+        "improveDegree": 67.847,
+        "ProSet": [{
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "680510",
+            "proDescription": "香附_生_广西",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.1969,
+        "improveDegree": 67.6875,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608650",
+            "proDescription": "薏苡仁_生_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.2819,
+        "improveDegree": 67.6473,
+        "ProSet": [{
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608440",
+            "proDescription": "熟地黄_片_河南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.2525,
+        "improveDegree": 67.4453,
+        "ProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608307",
+            "proDescription": "党参_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.5195,
+        "improveDegree": 66.7807,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.2744,
+        "improveDegree": 66.7807,
+        "ProSet": [{
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0028,
+        "confidenceDegree": 0.2653,
+        "improveDegree": 65.512,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0023,
+        "confidenceDegree": 0.2642,
+        "improveDegree": 64.7542,
+        "ProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608452",
+            "proDescription": "桂枝_片_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0025,
+        "confidenceDegree": 0.3327,
+        "improveDegree": 63.9039,
+        "ProSet": [{
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608464",
+            "proDescription": "丹参_片_河北",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0025,
+        "confidenceDegree": 0.4971,
+        "improveDegree": 63.9039,
+        "ProSet": [{
+            "proId": "608464",
+            "proDescription": "丹参_片_河北",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.098,
+        "improveDegree": 24.8215,
+        "ProSet": [{
+            "proId": "123957",
+            "proDescription": "盐酸左氧氟沙星片(薄膜衣片)_滇南本草堂_0.1g*12片*2板",
+            "proCategory": "喹诺酮类"
+        }],
+        "relatedProSet": [{
+            "proId": "119582",
+            "proDescription": "清淋颗粒_十通_10g*10袋",
+            "proCategory": "利尿通淋类"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.5111,
+        "improveDegree": 24.8215,
+        "ProSet": [{
+            "proId": "119582",
+            "proDescription": "清淋颗粒_十通_10g*10袋",
+            "proCategory": "利尿通淋类"
+        }],
+        "relatedProSet": [{
+            "proId": "123957",
+            "proDescription": "盐酸左氧氟沙星片(薄膜衣片)_滇南本草堂_0.1g*12片*2板",
+            "proCategory": "喹诺酮类"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.2978,
+        "improveDegree": 51.9509,
+        "ProSet": [{
+            "proId": "608294",
+            "proDescription": "白芍_片_安徽",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.3494,
+        "improveDegree": 51.9509,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608294",
+            "proDescription": "白芍_片_安徽",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.1674,
+        "improveDegree": 53.2653,
+        "ProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608294",
+            "proDescription": "白芍_片_安徽",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.1874,
+        "improveDegree": 52.9546,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608294",
+            "proDescription": "白芍_片_安徽",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.4807,
+        "improveDegree": 59.1176,
+        "ProSet": [{
+            "proId": "608440",
+            "proDescription": "熟地黄_片_河南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.2464,
+        "improveDegree": 59.1176,
+        "ProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608440",
+            "proDescription": "熟地黄_片_河南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.1956,
+        "improveDegree": 59.7154,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "680595",
+            "proDescription": "姜厚朴_炒_四川",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.2464,
+        "improveDegree": 55.2411,
+        "ProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "680510",
+            "proDescription": "香附_生_广西",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.4491,
+        "improveDegree": 55.2411,
+        "ProSet": [{
+            "proId": "680510",
+            "proDescription": "香附_生_广西",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.1748,
+        "improveDegree": 54.833,
+        "ProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "680107",
+            "proDescription": "防风_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.25,
+        "improveDegree": 48.0182,
+        "ProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608464",
+            "proDescription": "丹参_片_河北",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.3904,
+        "improveDegree": 48.0182,
+        "ProSet": [{
+            "proId": "608464",
+            "proDescription": "丹参_片_河北",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.229,
+        "improveDegree": 53.8322,
+        "ProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.4707,
+        "improveDegree": 53.8322,
+        "ProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.1246,
+        "improveDegree": 2.8462,
+        "ProSet": [{
+            "proId": "133570",
+            "proDescription": "复方南板蓝根片(糖衣片)_惠_100片*1瓶",
+            "proCategory": "清热药类"
+        }],
+        "relatedProSet": [{
+            "proId": "125788",
+            "proDescription": "阿莫西林胶囊_0.25g*10粒*3板*1盒",
+            "proCategory": "青霉素类"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.047,
+        "improveDegree": 2.8462,
+        "ProSet": [{
+            "proId": "125788",
+            "proDescription": "阿莫西林胶囊_0.25g*10粒*3板*1盒",
+            "proCategory": "青霉素类"
+        }],
+        "relatedProSet": [{
+            "proId": "133570",
+            "proDescription": "复方南板蓝根片(糖衣片)_惠_100片*1瓶",
+            "proCategory": "清热药类"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.0604,
+        "improveDegree": 8.4643,
+        "ProSet": [{
+            "proId": "125252",
+            "proDescription": "阿奇霉素分散片_滇南本草堂_0.25g(25万单位)*6片*2板",
+            "proCategory": "大环内酯类"
+        }],
+        "relatedProSet": [{
+            "proId": "134000",
+            "proDescription": "百合固金片(薄膜衣片)_滇南本草堂_0.4g*15片*3板",
+            "proCategory": "止咳\\祛痰\\平喘药"
+        }]
+    }, {
+        "supportDegree": 0.002,
+        "confidenceDegree": 0.2848,
+        "improveDegree": 8.4643,
+        "ProSet": [{
+            "proId": "134000",
+            "proDescription": "百合固金片(薄膜衣片)_滇南本草堂_0.4g*15片*3板",
+            "proCategory": "止咳\\祛痰\\平喘药"
+        }],
+        "relatedProSet": [{
+            "proId": "125252",
+            "proDescription": "阿奇霉素分散片_滇南本草堂_0.25g(25万单位)*6片*2板",
+            "proCategory": "大环内酯类"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.176,
+        "improveDegree": 48.9317,
+        "ProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608380",
+            "proDescription": "滇柴胡饮片_片_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.1797,
+        "improveDegree": 44.0429,
+        "ProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608452",
+            "proDescription": "桂枝_片_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.1821,
+        "improveDegree": 55.6034,
+        "ProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "680595",
+            "proDescription": "姜厚朴_炒_四川",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.2744,
+        "improveDegree": 51.6952,
+        "ProSet": [{
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "680113",
+            "proDescription": "炒白术_麸炒_浙江",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.4022,
+        "improveDegree": 51.6952,
+        "ProSet": [{
+            "proId": "680113",
+            "proDescription": "炒白术_麸炒_浙江",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.1821,
+        "improveDegree": 50.2224,
+        "ProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608315",
+            "proDescription": "法半夏_炙_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.1821,
+        "improveDegree": 44.3244,
+        "ProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.2038,
+        "improveDegree": 54.4434,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.3801,
+        "improveDegree": 46.7457,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.2679,
+        "improveDegree": 46.7457,
+        "ProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.1997,
+        "improveDegree": 46.9309,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.5017,
+        "improveDegree": 46.9309,
+        "ProSet": [{
+            "proId": "608312",
+            "proDescription": "当归_片_甘肃",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608306",
+            "proDescription": "川芎_片_四川",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.0497,
+        "improveDegree": 2.3525,
+        "ProSet": [{
+            "proId": "125788",
+            "proDescription": "阿莫西林胶囊_0.25g*10粒*3板*1盒",
+            "proCategory": "青霉素类"
+        }],
+        "relatedProSet": [{
+            "proId": "123860",
+            "proDescription": "复方甘草片_海王_50片",
+            "proCategory": "止咳\\祛痰\\平喘药"
+        }]
+    }, {
+        "supportDegree": 0.0026,
+        "confidenceDegree": 0.0597,
+        "improveDegree": 2.4039,
+        "ProSet": [{
+            "proId": "125788",
+            "proDescription": "阿莫西林胶囊_0.25g*10粒*3板*1盒",
+            "proCategory": "青霉素类"
+        }],
+        "relatedProSet": [{
+            "proId": "103409",
+            "proDescription": "酚氨咖敏片(克感敏片)_滇生化_100片",
+            "proCategory": "感冒药类"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.0634,
+        "improveDegree": 4.1438,
+        "ProSet": [{
+            "proId": "125252",
+            "proDescription": "阿奇霉素分散片_滇南本草堂_0.25g(25万单位)*6片*2板",
+            "proCategory": "大环内酯类"
+        }],
+        "relatedProSet": [{
+            "proId": "131573",
+            "proDescription": "羚羊清肺颗粒_吕中_6g*9袋",
+            "proCategory": "止咳\\祛痰\\平喘药"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.0638,
+        "improveDegree": 4.667,
+        "ProSet": [{
+            "proId": "125252",
+            "proDescription": "阿奇霉素分散片_滇南本草堂_0.25g(25万单位)*6片*2板",
+            "proCategory": "大环内酯类"
+        }],
+        "relatedProSet": [{
+            "proId": "400891",
+            "proDescription": "立白新金桔洗洁精(ZZ)_1.29KG",
+            "proCategory": "家居及日用"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.0772,
+        "improveDegree": 4.358,
+        "ProSet": [{
+            "proId": "400249",
+            "proDescription": "香满园食用调和油(ZZ)_900ml",
+            "proCategory": "食品"
+        }],
+        "relatedProSet": [{
+            "proId": "134025",
+            "proDescription": "新复方大青叶片_龙发_12片*4板",
+            "proCategory": "感冒药类"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.0793,
+        "improveDegree": 5.1821,
+        "ProSet": [{
+            "proId": "400249",
+            "proDescription": "香满园食用调和油(ZZ)_900ml",
+            "proCategory": "食品"
+        }],
+        "relatedProSet": [{
+            "proId": "131573",
+            "proDescription": "羚羊清肺颗粒_吕中_6g*9袋",
+            "proCategory": "止咳\\祛痰\\平喘药"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.0882,
+        "improveDegree": 5.3345,
+        "ProSet": [{
+            "proId": "103409",
+            "proDescription": "酚氨咖敏片(克感敏片)_滇生化_100片",
+            "proCategory": "感冒药类"
+        }],
+        "relatedProSet": [{
+            "proId": "133570",
+            "proDescription": "复方南板蓝根片(糖衣片)_惠_100片*1瓶",
+            "proCategory": "清热药类"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.1022,
+        "improveDegree": 12.2045,
+        "ProSet": [{
+            "proId": "123957",
+            "proDescription": "盐酸左氧氟沙星片(薄膜衣片)_滇南本草堂_0.1g*12片*2板",
+            "proCategory": "喹诺酮类"
+        }],
+        "relatedProSet": [{
+            "proId": "103638",
+            "proDescription": "三金片(薄膜衣片)_三金_18片*2板*1袋",
+            "proCategory": "利尿通淋类"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.103,
+        "improveDegree": 2.3525,
+        "ProSet": [{
+            "proId": "123860",
+            "proDescription": "复方甘草片_海王_50片",
+            "proCategory": "止咳\\祛痰\\平喘药"
+        }],
+        "relatedProSet": [{
+            "proId": "125788",
+            "proDescription": "阿莫西林胶囊_0.25g*10粒*3板*1盒",
+            "proCategory": "青霉素类"
+        }]
+    }, {
+        "supportDegree": 0.0026,
+        "confidenceDegree": 0.1052,
+        "improveDegree": 2.4039,
+        "ProSet": [{
+            "proId": "103409",
+            "proDescription": "酚氨咖敏片(克感敏片)_滇生化_100片",
+            "proCategory": "感冒药类"
+        }],
+        "relatedProSet": [{
+            "proId": "125788",
+            "proDescription": "阿莫西林胶囊_0.25g*10粒*3板*1盒",
+            "proCategory": "青霉素类"
+        }]
+    }, {
+        "supportDegree": 0.0024,
+        "confidenceDegree": 0.1145,
+        "improveDegree": 6.4641,
+        "ProSet": [{
+            "proId": "131861",
+            "proDescription": "银黄胶囊_滇南本草堂_0.3g*18粒*2板",
+            "proCategory": "清热药类"
+        }],
+        "relatedProSet": [{
+            "proId": "134025",
+            "proDescription": "新复方大青叶片_龙发_12片*4板",
+            "proCategory": "感冒药类"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.1212,
+        "improveDegree": 4.358,
+        "ProSet": [{
+            "proId": "134025",
+            "proDescription": "新复方大青叶片_龙发_12片*4板",
+            "proCategory": "感冒药类"
+        }],
+        "relatedProSet": [{
+            "proId": "400249",
+            "proDescription": "香满园食用调和油(ZZ)_900ml",
+            "proCategory": "食品"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.1326,
+        "improveDegree": 5.3345,
+        "ProSet": [{
+            "proId": "133570",
+            "proDescription": "复方南板蓝根片(糖衣片)_惠_100片*1瓶",
+            "proCategory": "清热药类"
+        }],
+        "relatedProSet": [{
+            "proId": "103409",
+            "proDescription": "酚氨咖敏片(克感敏片)_滇生化_100片",
+            "proCategory": "感冒药类"
+        }]
+    }, {
+        "supportDegree": 0.0024,
+        "confidenceDegree": 0.1394,
+        "improveDegree": 6.4641,
+        "ProSet": [{
+            "proId": "134025",
+            "proDescription": "新复方大青叶片_龙发_12片*4板",
+            "proCategory": "感冒药类"
+        }],
+        "relatedProSet": [{
+            "proId": "131861",
+            "proDescription": "银黄胶囊_滇南本草堂_0.3g*18粒*2板",
+            "proCategory": "清热药类"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.1394,
+        "improveDegree": 4.1438,
+        "ProSet": [{
+            "proId": "131573",
+            "proDescription": "羚羊清肺颗粒_吕中_6g*9袋",
+            "proCategory": "止咳\\祛痰\\平喘药"
+        }],
+        "relatedProSet": [{
+            "proId": "125252",
+            "proDescription": "阿奇霉素分散片_滇南本草堂_0.25g(25万单位)*6片*2板",
+            "proCategory": "大环内酯类"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.1442,
+        "improveDegree": 5.1821,
+        "ProSet": [{
+            "proId": "131573",
+            "proDescription": "羚羊清肺颗粒_吕中_6g*9袋",
+            "proCategory": "止咳\\祛痰\\平喘药"
+        }],
+        "relatedProSet": [{
+            "proId": "400249",
+            "proDescription": "香满园食用调和油(ZZ)_900ml",
+            "proCategory": "食品"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.157,
+        "improveDegree": 4.667,
+        "ProSet": [{
+            "proId": "400891",
+            "proDescription": "立白新金桔洗洁精(ZZ)_1.29KG",
+            "proCategory": "家居及日用"
+        }],
+        "relatedProSet": [{
+            "proId": "125252",
+            "proDescription": "阿奇霉素分散片_滇南本草堂_0.25g(25万单位)*6片*2板",
+            "proCategory": "大环内酯类"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.1845,
+        "improveDegree": 35.456,
+        "ProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608464",
+            "proDescription": "丹参_片_河北",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.1858,
+        "improveDegree": 48.4959,
+        "ProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "680113",
+            "proDescription": "炒白术_麸炒_浙江",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.1882,
+        "improveDegree": 56.9607,
+        "ProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608798",
+            "proDescription": "陈皮_丝_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.1919,
+        "improveDegree": 43.0291,
+        "ProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "680510",
+            "proDescription": "香附_生_广西",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.1983,
+        "improveDegree": 44.47,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "680510",
+            "proDescription": "香附_生_广西",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0024,
+        "confidenceDegree": 0.2053,
+        "improveDegree": 47.4439,
+        "ProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608308",
+            "proDescription": "白术_片_浙江",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.2079,
+        "improveDegree": 57.3311,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608315",
+            "proDescription": "法半夏_炙_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.2106,
+        "improveDegree": 58.7967,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608798",
+            "proDescription": "陈皮_丝_云南",
+            "proCategory": "中药饮片"
+        }, {
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.2134,
+        "improveDegree": 52.3021,
+        "ProSet": [{
+            "proId": "608313",
+            "proDescription": "茯苓_块_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608452",
+            "proDescription": "桂枝_片_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0021,
+        "confidenceDegree": 0.2513,
+        "improveDegree": 12.2045,
+        "ProSet": [{
+            "proId": "103638",
+            "proDescription": "三金片(薄膜衣片)_三金_18片*2板*1袋",
+            "proCategory": "利尿通淋类"
+        }],
+        "relatedProSet": [{
+            "proId": "123957",
+            "proDescription": "盐酸左氧氟沙星片(薄膜衣片)_滇南本草堂_0.1g*12片*2板",
+            "proCategory": "喹诺酮类"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.4241,
+        "improveDegree": 35.456,
+        "ProSet": [{
+            "proId": "608464",
+            "proDescription": "丹参_片_河北",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0025,
+        "confidenceDegree": 0.4848,
+        "improveDegree": 40.5293,
+        "ProSet": [{
+            "proId": "680113",
+            "proDescription": "炒白术_麸炒_浙江",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0025,
+        "confidenceDegree": 0.2151,
+        "improveDegree": 40.5293,
+        "ProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "680113",
+            "proDescription": "炒白术_麸炒_浙江",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0023,
+        "confidenceDegree": 0.2692,
+        "improveDegree": 42.8127,
+        "ProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608798",
+            "proDescription": "陈皮_丝_云南",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0023,
+        "confidenceDegree": 0.3744,
+        "improveDegree": 42.8127,
+        "ProSet": [{
+            "proId": "608798",
+            "proDescription": "陈皮_丝_云南",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608866",
+            "proDescription": "黄芪_片_甘肃",
+            "proCategory": "中药饮片"
+        }]
+    }, {
+        "supportDegree": 0.0022,
+        "confidenceDegree": 0.5147,
+        "improveDegree": 43.0291,
+        "ProSet": [{
+            "proId": "680510",
+            "proDescription": "香附_生_广西",
+            "proCategory": "中药饮片"
+        }],
+        "relatedProSet": [{
+            "proId": "608481",
+            "proDescription": "甘草_片_内蒙",
+            "proCategory": "中药饮片"
+        }]
+    }],
+    "ct1b": 1384674202962,
+    "ct1a": 1384674205327
+}
