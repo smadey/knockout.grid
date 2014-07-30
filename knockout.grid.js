@@ -261,15 +261,19 @@ define(function(require, exports, module) {
 
         this.toggleItemEditing = function() {
             this._editing(!this._editing());
+
+            event.stopPropagation();
         };
         this.saveItem = function() {
             var item = this;
             $(event.target || event.srcElement).parents('tr').find('input.editing').each(function() {
-                var bind = $(this).attr('data-bind').replace(/value:(.{1,})\(\).*/,'$1').split('.').pop();
+                var bind = $(this).attr('data-bind').replace(/value:(.{1,})\(\),.*/,'$1').split('.').pop();
                 item[bind](isNaN(this.value) ? this.value : parseFloat(this.value));
             });
             item._editing(false);
             that.update(item);
+
+            event.stopPropagation();
         };
         this.removeItem = function() {
             var item = this;
@@ -277,6 +281,8 @@ define(function(require, exports, module) {
                 that.dataSet.remove(item);
                 that['delete'](item);
             }
+
+            event.stopPropagation();
         };
 
         this.isDataLoaded = ko.observable(!options.autoRetrieve);
@@ -323,6 +329,9 @@ define(function(require, exports, module) {
                     if(result.status == "success") {
                         that.afterUpdate();
                     }
+                },
+                error: function() {
+                    console.error('Save data fail!', postData);
                 }
             });
         };
@@ -336,6 +345,9 @@ define(function(require, exports, module) {
                 'data': JSON.stringify(postData),
                 success: function(result) {
                     that.afterDelete();
+                },
+                error: function() {
+                    console.error('Delete data fail!', postData);
                 }
             });
         };
@@ -643,7 +655,7 @@ define(function(require, exports, module) {
                 dataBind = 'text: $parent.' + column.dataField + ', visible: !$parent._editing()' + additional_bind;
                 $innerElement = $('<span />').attr('data-bind', dataBind);
                 dataBind = 'value: $parent.' + column.dataField + '(), visible: $parent._editing' + additional_bind;
-                $.merge($innerElement, $('<input type="text" class="editing" />').attr('data-bind', dataBind));
+                $.merge($innerElement, $('<input type="text" class="textbox editing" />').attr('data-bind', dataBind));
             }
             if(!$innerElement && additional_bind) {
                 dataBind = additional_bind.slice(2);

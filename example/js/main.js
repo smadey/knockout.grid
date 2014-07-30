@@ -27,17 +27,19 @@ require( [
                 { head: 'Product ID', dataField: 'ProSet.proId', filterType: 'textbox', width: '90px'},
                 { head: 'Product Catgory', dataField: 'ProSet.proCategory', filterType: 'select'},
                 { head: 'Product Description', dataField: 'ProSet.proDescription', width: '250px'},
-                { head: 'Support Degree', dataField: 'supportDegree', sort: true, width: '80px', 'class': 'text_right',
+                { head: 'Support Degree', dataField: 'supportDegree', sort: true, editable: true, width: '100px', 'class': 'text_right',
                     body_bind: 'css: { "text-danger": $parent["support_flag"]() == 1 }'},
-                { head: 'Confidence Degree', dataField: 'confidenceDegree', sort: true, width: '80px', 'class': 'text_right',
+                { head: 'Confidence Degree', dataField: 'confidenceDegree', sort: true, editable: true, width: '100px', 'class': 'text_right',
                     body_bind: 'css: { "text-danger": $parent["support_flag"]() == 1 }'},
-                { head: 'Improve Degree', dataField: 'improveDegree', sort: true, width: '80px', 'class': 'text_right',
+                { head: 'Improve Degree', dataField: 'improveDegree', sort: true, editable: true, width: '100px', 'class': 'text_right',
                     body_bind: 'css: { "text-danger": $parent["support_flag"]() == 1 }'},
                 { head: 'Related Product ID', dataField: 'relatedProSet.proId', filterType: 'textbox'},
                 { head: 'Related Product Catgory', dataField: 'relatedProSet.proCategory', filterType: 'select'},
-                { head: 'Related Product Description', dataField: 'relatedProSet.proDescription'}
+                { head: 'Related Product Description', dataField: 'relatedProSet.proDescription'},
+                { head: 'Operation', type: 'button', template: '{update}|{delete}', width: '120px'}
             ],
             ajaxRetrieveUrl: ko.computed(function () { return './json/getAssociationRealtimeForItem.json'; }),
+            ajaxUpdateUrl: '',
             beforeMapping: function(data) {
                 var support = data.support_threshold;
                 var confidence = data.confidence_threshold;
@@ -58,6 +60,8 @@ require( [
                 return data;
             },
             trClickEvent: function() {
+                if(this._editing()) return;
+
                 var $tr = $(event.target).parents('tr');
                 if($tr.next().hasClass('additionalTR')) {
                     $tr.next().toggleClass('hide');

@@ -21,6 +21,10 @@ a {
     display: none;
 }
 
+.text_right {
+    text-align: right;
+}
+
 /* textbox start */
 .textbox {
     border: 1px solid #b7b7b7;
